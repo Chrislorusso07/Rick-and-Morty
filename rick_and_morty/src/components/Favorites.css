@@ -1,0 +1,4 @@
+.favContainer{
+    display: flex;
+    flex-flow: wrap;
+}
