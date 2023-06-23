@@ -1,2 +1,11 @@
 .Nav{display: flex;
-    justify-content: flex-end;}
+    background-color: #d81ab8;
+    height: 60px;
+    justify-content: space-between;
+}
+
+.Boton{
+    margin-top: 1rem;
+}
+
+

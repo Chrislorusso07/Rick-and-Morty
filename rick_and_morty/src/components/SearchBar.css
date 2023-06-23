@@ -1,3 +1,13 @@
 .searchBar{
-    background-color: #DE3163;
+    background-color: #DE3163
+}
+
+.barra{
+    margin-top: 1rem;
+    margin-right: 0,3rem;
+}
+
+button{
+    background-color: rgb(172, 252, 53);
+    border-radius: 50px;
 }

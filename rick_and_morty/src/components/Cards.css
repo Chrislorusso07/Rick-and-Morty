@@ -1,0 +1,4 @@
+.Cartas{
+    display: flex;
+    flex-flow: wrap;
+}
